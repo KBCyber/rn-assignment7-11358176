@@ -1,4 +1,8 @@
-# E-Commerce App
+Certainly! Here's the updated README with placeholders for screenshots:
+
+---
+
+# E-Shop App
 
 This project is an e-commerce mobile application built with React Native. It allows users to view a list of available products, preview detailed information about each product, add products to their cart, and remove products from their cart. The cart items are stored locally on the device.
 
@@ -20,17 +24,26 @@ This project is an e-commerce mobile application built with React Native. It all
 
 The `HomeScreen` component displays a list of products fetched from an external API. Each product has an "Add to Cart" button.
 
+![HomeScreen](/project7/assets/Screenshots/home.jpg)
+
 ### ProductDetailScreen
 
 The `ProductDetailScreen` component displays detailed information about a selected product, including its name, description, price, and an "Add to Cart" button.
+
+![ProductDetailScreen](/project7/assets/Screenshots/details.jpg)
+![ProductDetailScreen](/project7/assets/Screenshots/detail2.jpg)
 
 ### CartScreen
 
 The `CartScreen` component displays the items added to the cart. Each item in the cart has a "Remove from Cart" button.
 
+![CartScreen](/project7/assets/Screenshots/cart.jpg)
+
 ### Drawer Navigation
 
 The drawer navigation allows users to easily navigate between the `HomeScreen`, `ProductDetailScreen`, and `CartScreen`. It can be accessed through a swipe gesture or a button.
+
+![DrawerNavigation](./project7/assets/Screenshots/side.png)
 
 ## Functionality
 
