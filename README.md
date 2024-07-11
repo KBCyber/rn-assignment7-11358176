@@ -24,14 +24,14 @@ This project is an e-commerce mobile application built with React Native. It all
 
 The `HomeScreen` component displays a list of products fetched from an external API. Each product has an "Add to Cart" button.
 
-![HomeScreen](/project7/assets/Screenshots/home.jpg)
+![HomeScreen](./project7/assets/Screenshots/home.jpg)
 
 ### ProductDetailScreen
 
 The `ProductDetailScreen` component displays detailed information about a selected product, including its name, description, price, and an "Add to Cart" button.
 
-![ProductDetailScreen](/project7/assets/Screenshots/details.jpg)
-![ProductDetailScreen](/project7/assets/Screenshots/detail2.jpg)
+![ProductDetailScreen](./project7/assets/Screenshots/details.jpg)
+![ProductDetailScreen](./project7/assets/Screenshots/detail2.jpg)
 
 ### CartScreen
 
